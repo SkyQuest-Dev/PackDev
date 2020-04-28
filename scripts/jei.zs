@@ -1,0 +1,34 @@
+# CREATED USING EXTERNAL TWEAKER
+#priority 4
+mods.jei.JEI.hide(<thermaldynamics:cover:*>);
+mods.jei.JEI.hide(<appliedenergistics2:facade:*>);
+mods.jei.JEI.hide(<actuallyadditions:block_farmer:*>);
+mods.jei.JEI.hide(<actuallyadditions:item_mining_lens:*>);
+mods.jei.JEI.hide(<actuallyadditions:item_disenchanting_lens:*>);
+mods.jei.JEI.hide(<actuallyadditions:item_explosion_lens:*>);
+mods.jei.JEI.hide(<actuallyadditions:item_more_damage_lens:*>);
+mods.jei.JEI.hide(<actuallyadditions:item_damage_lens:*>);
+mods.jei.JEI.hide(<actuallyadditions:block_laser_relay_fluids:*>);
+mods.jei.JEI.hide(<actuallyadditions:block_laser_relay_advanced:*>);
+mods.jei.JEI.hide(<actuallyadditions:block_laser_relay_item:*>);
+mods.jei.JEI.hide(<actuallyadditions:block_laser_relay_extreme:*>);
+mods.jei.JEI.hide(<actuallyadditions:block_laser_relay_item_whitelist:*>);
+mods.jei.JEI.hide(<actuallyadditions:block_laser_relay:*>);
+mods.jei.JEI.hide(<actuallyadditions:block_item_viewer>);
+mods.jei.JEI.hide(<actuallyadditions:block_item_viewer_hopping>);
+mods.jei.JEI.hide(<actuallyadditions:item_growth_ring:*>.withTag({Energy: 1000000}));
+mods.jei.JEI.hide(<actuallyadditions:item_growth_ring:*>.withTag({Energy: 0}));
+mods.jei.JEI.hide(<actuallyadditions:block_leaf_generator:*>);
+mods.jei.JEI.hide(<actuallyadditions:item_spawner_changer:*>);
+mods.jei.JEI.hide(<thermalexpansion:augment:323>);
+mods.jei.JEI.hide(<thermalexpansion:augment:320>);
+mods.jei.JEI.hide(<thermalexpansion:augment:324>);
+mods.jei.JEI.hide(<botania:specialflower>.withTag({type: "loonium"}));
+mods.jei.JEI.hide(<botania:floatingspecialflower>.withTag({type: "loonium"}));
+mods.jei.JEI.hide(<botania:specialflower>.withTag({type: "orechid"}));
+mods.jei.JEI.hide(<botania:floatingspecialflower>.withTag({type: "orechidIgnem"}));
+mods.jei.JEI.hide(<botania:specialflower>.withTag({type: "orechidIgnem"}));
+mods.jei.JEI.hide(<botania:specialflower>.withTag({type: "jadedAmaranthus"}));
+mods.jei.JEI.hide(<botania:floatingspecialflower>.withTag({type: "jadedAmaranthus"}));
+mods.jei.JEI.hide(<actuallyadditions:block_miner>);
+mods.jei.JEI.hide(<actuallyadditions:block_miner>);
