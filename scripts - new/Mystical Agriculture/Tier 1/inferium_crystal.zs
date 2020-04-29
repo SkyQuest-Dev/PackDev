@@ -1,0 +1,4 @@
+# CREATED USING EXTERNAL TWEAKER
+
+mods.botania.RuneAltar.addRecipe(<matc:inferiumcrystal>, [<mysticalagriculture:storage>, <mysticalagriculture:marble_essence>, <mysticalagriculture:stone_essence>, <mysticalagriculture:limestone_essence>, <mysticalagriculture:basalt_essence>, <mysticalagriculture:dirt_essence>, <mysticalagriculture:wood_essence>, <mysticalagriculture:nature_essence>, <mysticalagriculture:water_essence>, <mysticalagriculture:fire_essence>, <mysticalagriculture:ice_essence>], 5000);
+recipes.removeShaped(<matc:inferiumcrystal>, [[<ore:shardProsperity>, <ore:essenceInferium>, <ore:shardProsperity>], [<ore:essenceInferium>, <minecraft:diamond>, <mysticalagriculture:crafting>], [<mysticalagriculture:crafting:5>, <mysticalagriculture:crafting>, <mysticalagriculture:crafting:5>]]);

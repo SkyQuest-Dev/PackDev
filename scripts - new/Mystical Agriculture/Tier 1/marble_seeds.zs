@@ -1,0 +1,5 @@
+# CREATED USING EXTERNAL TWEAKER
+
+mods.botania.RuneAltar.addRecipe(<mysticalagriculture:marble_seeds>, [<mysticalagriculture:tier1_inferium_seeds>, <mysticalagriculture:marble_essence>, <mysticalagriculture:marble_essence>, <mysticalagriculture:marble_essence>, <mysticalagriculture:crafting>, <mysticalagriculture:crafting>, <botania:dye>, <minecraft:stone>], 1000);
+recipes.removeShaped(<mysticalagriculture:marble_seeds>, [[<ore:stoneMarble>, <ore:essenceInferium>, <chisel:marble2:7>], [<mysticalagriculture:crafting>, <mysticalagriculture:crafting:17>, <ore:essenceInferium>], [<chisel:marble2:7>, <mysticalagriculture:crafting>, <ore:stoneMarble>]]);
+recipes.removeShaped(<mysticalagriculture:marble_seeds>, [[<astralsorcery:blockmarble>, <mysticalagriculture:crafting>, <astralsorcery:blockmarble>], [<mysticalagriculture:crafting>, <mysticalagriculture:crafting:17>, <mysticalagriculture:crafting>], [<astralsorcery:blockmarble>, <mysticalagriculture:crafting>, <astralsorcery:blockmarble>]]);

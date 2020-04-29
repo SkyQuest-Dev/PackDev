@@ -1,0 +1,4 @@
+# CREATED USING EXTERNAL TWEAKER
+
+recipes.removeShaped(<mysticalagriculture:tier5_inferium_seeds>, [[<mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>], [<mysticalagriculture:crafting:4>, <mysticalagriculture:tier4_inferium_seeds>, <mysticalagriculture:crafting:4>], [<mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>]]);
+mods.botania.RuneAltar.addRecipe(<mysticalagriculture:tier5_inferium_seeds>, [<mysticalagriculture:tier4_inferium_seeds>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>], 0);

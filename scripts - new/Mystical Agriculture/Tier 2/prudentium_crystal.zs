@@ -1,0 +1,4 @@
+# CREATED USING EXTERNAL TWEAKER
+
+mods.botania.RuneAltar.addRecipe(<matc:prudentiumcrystal>, [<matc:inferiumcrystal>, <mysticalagriculture:storage:1>, <mysticalagriculture:aluminum_essence>, <mysticalagriculture:apatite_essence>, <mysticalagriculture:coal_essence>, <mysticalagriculture:copper_essence>, <mysticalagriculture:experience_essence>, <mysticalagriculture:iron_essence>, <mysticalagriculture:lead_essence>, <mysticalagriculture:silver_essence>, <mysticalagriculture:tin_essence>], 10000);
+recipes.removeShaped(<matc:prudentiumcrystal>, [[<ore:shardProsperity>, <ore:essencePrudentium>, <mysticalagriculture:crafting:5>], [<mysticalagriculture:crafting:1>, <matc:inferiumcrystal>, <mysticalagriculture:crafting:1>], [<mysticalagriculture:crafting:5>, <mysticalagriculture:crafting:1>, <mysticalagriculture:crafting:5>]]);
