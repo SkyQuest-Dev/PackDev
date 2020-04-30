@@ -1,0 +1,4 @@
+# CREATED USING EXTERNAL TWEAKER
+
+mods.botania.RuneAltar.addRecipe(<mysticalagradditions:tier6_inferium_seeds>, [<mysticalagriculture:tier5_inferium_seeds>, <mysticalagradditions:insanium>, <mysticalagradditions:insanium>, <mysticalagradditions:insanium>, <mysticalagradditions:insanium>, <mysticalagradditions:insanium>, <mysticalagradditions:insanium>, <mysticalagradditions:insanium>, <mysticalagradditions:insanium>], 32000);
+recipes.removeShaped(<mysticalagradditions:tier6_inferium_seeds>, [[<mysticalagradditions:insanium>, <mysticalagradditions:insanium>, <mysticalagradditions:insanium>], [<mysticalagradditions:insanium>, <mysticalagriculture:tier5_inferium_seeds>, <mysticalagradditions:insanium>], [<mysticalagradditions:insanium>, <mysticalagradditions:insanium>, <mysticalagradditions:insanium>]]);
