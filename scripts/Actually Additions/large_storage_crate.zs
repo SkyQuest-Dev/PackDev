@@ -1,0 +1,4 @@
+# CREATED USING EXTERNAL TWEAKER
+
+recipes.addShaped(<actuallyadditions:block_giant_chest_large>, [[<actuallyadditions:block_crystal_empowered:3>, <ore:plankTreatedWood>, <actuallyadditions:block_crystal_empowered:3>], [<ore:plankTreatedWood>, <actuallyadditions:block_giant_chest_medium>, <ore:plankTreatedWood>], [<actuallyadditions:block_crystal_empowered:3>, <ore:plankTreatedWood>, <actuallyadditions:block_crystal_empowered:3>]]);
+recipes.removeShaped(<actuallyadditions:block_giant_chest_large>, [[<actuallyadditions:block_crystal_empowered:3>, <ore:plankWood>, <actuallyadditions:block_crystal_empowered:3>], [<ore:plankWood>, <actuallyadditions:block_giant_chest_medium>, <ore:plankWood>], [<actuallyadditions:block_crystal_empowered:3>, <ore:plankWood>, <actuallyadditions:block_crystal_empowered:3>]]);
