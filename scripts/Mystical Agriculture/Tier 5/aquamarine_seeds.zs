@@ -1,0 +1,4 @@
+# CREATED USING EXTERNAL TWEAKER
+
+recipes.removeShaped(<mysticalagriculture:aquamarine_seeds>, [[<astralsorcery:itemcraftingcomponent>, <mysticalagriculture:crafting:4>, <astralsorcery:itemcraftingcomponent>], [<mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:21>, <mysticalagriculture:crafting:4>], [<astralsorcery:itemcraftingcomponent>, <mysticalagriculture:crafting:4>, <astralsorcery:itemcraftingcomponent>]]);
+mods.botania.RuneAltar.addRecipe(<mysticalagriculture:aquamarine_seeds>, [<mysticalagriculture:tier5_inferium_seeds>, <mysticalagriculture:aquamarine_seeds>, <mysticalagriculture:aquamarine_seeds>, <mysticalagriculture:aquamarine_seeds>, <mysticalagriculture:crafting:4>, <mysticalagriculture:crafting:4>, <botania:dye:11>, <minecraft:quartz_block>, <minecraft:lapis_block>], 16000);

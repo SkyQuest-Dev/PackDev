@@ -1,0 +1,4 @@
+# CREATED USING EXTERNAL TWEAKER
+
+mods.botania.RuneAltar.addRecipe(<mysticalagriculture:master_infusion_crystal>, [<matc:inferiumcrystal>, <matc:prudentiumcrystal>, <matc:intermediumcrystal>, <matc:superiumcrystal>, <matc:supremiumcrystal>, <mysticalagriculture:storage>, <mysticalagriculture:storage:1>, <mysticalagriculture:storage:2>, <mysticalagriculture:storage:3>, <mysticalagriculture:storage:4>, <mysticalagradditions:storage>], 32000);
+recipes.removeShaped(<mysticalagriculture:master_infusion_crystal>, [[<mysticalagriculture:crafting:5>, <mysticalagradditions:insanium>, <mysticalagriculture:crafting:5>], [<mysticalagradditions:insanium>, <matc:supremiumcrystal>, <mysticalagradditions:insanium>], [<mysticalagriculture:crafting:5>, <mysticalagradditions:insanium>, <mysticalagriculture:crafting:5>]]);

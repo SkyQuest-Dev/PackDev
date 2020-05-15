@@ -1,0 +1,4 @@
+# CREATED USING EXTERNAL TWEAKER
+
+mods.botania.RuneAltar.addRecipe(<matc:superiumcrystal>, [<matc:intermediumcrystal>, <mysticalagriculture:storage:3>, <mysticalagriculture:boron_essence>, <mysticalagriculture:certus_quartz_essence>, <mysticalagriculture:dilithium_essence>, <mysticalagriculture:lithium_essence>, <mysticalagriculture:magnesium_essence>, <mysticalagriculture:platinum_essence>, <mysticalagriculture:thorium_essence>, <mysticalagriculture:titanium_essence>, <mysticalagriculture:wither_skeleton_essence>], 8000);
+recipes.removeShaped(<matc:superiumcrystal>, [[<mysticalagriculture:crafting:5>, <mysticalagriculture:crafting:3>, <mysticalagriculture:crafting:5>], [<mysticalagriculture:crafting:3>, <matc:intermediumcrystal>, <mysticalagriculture:crafting:3>], [<mysticalagriculture:crafting:5>, <mysticalagriculture:crafting:3>, <mysticalagriculture:crafting:5>]]);
