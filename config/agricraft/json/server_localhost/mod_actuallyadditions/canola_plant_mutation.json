@@ -1,0 +1,8 @@
+{
+  "path": "mod_actuallyadditions/canola_plant_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "actuallyadditions:canola_plant",
+  "parent1": "harvestcraft:cotton_plant",
+  "parent2": "harvestcraft:flax_plant"
+}
