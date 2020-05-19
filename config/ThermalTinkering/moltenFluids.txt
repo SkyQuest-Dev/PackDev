@@ -31,7 +31,7 @@ prudentium                                        (mysticalagradditions:molten_p
 intermedium                                       (mysticalagradditions:molten_intermedium)                                        = Molten Intermedium
 superium                                          (mysticalagradditions:molten_superium)                                           = Molten Superium
 supremium                                         (mysticalagradditions:molten_supremium)                                          = Molten Supremium
-boron                                             (tconstruct:molten_boron)                                                        = Molten Boron
+boron                                             (nuclearcraft:fluid_boron)                                                       = Molten Boron
 tough                                             (nuclearcraft:fluid_tough)                                                       = Molten Tough Alloy
 hard_carbon                                       (nuclearcraft:fluid_hard_carbon)                                                 = Molten Hard Carbon
 thorium                                           (tconstruct:molten_thorium)                                                      = Molten Thorium
