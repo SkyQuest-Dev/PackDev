@@ -1,6 +1,5 @@
 # CREATED USING EXTERNAL TWEAKER
 
-mods.jei.JEI.hide(<actuallyadditions:block_farmer:*>);
 mods.jei.JEI.hide(<actuallyadditions:item_mining_lens:*>);
 mods.jei.JEI.hide(<actuallyadditions:item_disenchanting_lens:*>);
 mods.jei.JEI.hide(<actuallyadditions:item_explosion_lens:*>);
